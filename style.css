@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(31, 189, 149);
+  font-family:American Typewriter, serif;
+  font-size: 20px;
+}
+h1 {
+  font-size: 50px;
+}
+#contents {
+  font-size: 30px;
+}
+.title {
+  font-size: 20px;
+}
